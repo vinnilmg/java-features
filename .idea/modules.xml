@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-10/java-10.iml" filepath="$PROJECT_DIR$/java-10/java-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-11/java-11.iml" filepath="$PROJECT_DIR$/java-11/java-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-12/java-12.iml" filepath="$PROJECT_DIR$/java-12/java-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-13/java-13.iml" filepath="$PROJECT_DIR$/java-13/java-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-14/java-14.iml" filepath="$PROJECT_DIR$/java-14/java-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-15/java-15.iml" filepath="$PROJECT_DIR$/java-15/java-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8/java-8.iml" filepath="$PROJECT_DIR$/java-8/java-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-9/java-9.iml" filepath="$PROJECT_DIR$/java-9/java-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-features.iml" filepath="$PROJECT_DIR$/java-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java10-features/src/java10-features.iml" filepath="$PROJECT_DIR$/java10-features/src/java10-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java10-features/java10-features1.iml" filepath="$PROJECT_DIR$/java10-features/java10-features1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8-features/java8-features.iml" filepath="$PROJECT_DIR$/java8-features/java8-features.iml" />
+    </modules>
+  </component>
+</project>
