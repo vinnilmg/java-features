@@ -22,5 +22,8 @@ public class Exemplo01 {
         // Novos métodos para remover
         cestaDeFrutas.removeFirst();
         cestaDeFrutas.removeLast();
+
+        // Retorna a coleção de forma invertida
+        final var colecaoInvertida = cestaDeFrutas.reversed();
     }
 }
