@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"java.doc.markdown","l":"ComMarkdownExemplo"},{"p":"java.doc.markdown","l":"SemMarkdownExemplo"}];updateSearchResults();
